@@ -5,7 +5,7 @@ A bit about Myself, I am <b>Anustha Chhetri</b> pursuing a <b> Degree in Masters
 
 <h1 align="center">Tech-Stack</h1>
 
-I have knowledge of HTML,CSS , Javascript, Php and Mysql. Beside that I am also learning Python and also has basic knowledge of C++ , C , Java. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I have knowledge of HTML,CSS , Javascript,AEM(ADobe Experience Manager),Git,sql,Cloud Technologies. Beside that I am also learning Python and also has basic knowledge of  C , Java. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
