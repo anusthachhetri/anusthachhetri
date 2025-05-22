@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anustha-chhetri-2b3086193/" target="_blank"> Anustha Chhetri </a></h1>
 
-A bit about Myself, I am <b>Anustha Chhetri</b> pursuing a <b> Degree in Masters of Computer Applications</b> from Graphic Era Hill University, Dehradun. As of now, I am focused on <b>Python Coding and Web Development</b> but wish to explore many fields. ⚡
+I am Anustha Chhetri, a dedicated tech professional with 2+ years of industry experience, currently working at MPS Limited as a Software Developer and Data Engineer. My core expertise includes Python development, Web Development, Data Engineering, and Data Analysis. I specialize in building robust applications, designing efficient data pipelines, and uncovering insights through data-driven solutions. Throughout my journey, I have contributed to several impactful projects that optimize performance and support informed decision-making. I’m passionate about continuous learning and always eager to explore new technologies and broaden my skill set across the tech landscape. ⚡
+ ⚡
 
 
 <h1 align="center">Tech-Stack</h1>
